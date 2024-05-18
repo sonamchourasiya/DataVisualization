@@ -5,7 +5,7 @@ package com.sunbeam.pojos;
  * Author: Nilesh Ghule <nilesh@sunbeaminfo.com>
  * Time: 2023-10-22 12:54
  */
-
+//kjhgierhgmflkfngothhrklkj
 public class Candidate {
 	private int id;
 	private String name;
